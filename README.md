@@ -22,6 +22,7 @@ Docker / Docker Compose
 Swagger (Springdoc OpenAPI)
 
 Postman (para testes manuais)
+
 ---
 
 🧪 Testes da API
