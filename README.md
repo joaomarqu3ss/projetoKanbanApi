@@ -1,5 +1,4 @@
 📝 Kanban API - Spring Boot
-
 ---
 
 Esta é uma API REST desenvolvida com Spring Boot para gerenciamento de tarefas em um sistema Kanban. Permite cadastrar, editar, excluir e consultar tarefas, com persistência de dados no PostgreSQL utilizando ORM com JPA/Hibernate.
