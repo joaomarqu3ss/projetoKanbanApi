@@ -5,7 +5,7 @@ Esta é uma API REST desenvolvida com Spring Boot para gerenciamento de tarefas 
 
 ---
 
-🚀 Tecnologias Utilizadas
+**🚀 Tecnologias Utilizadas**
 
 Java 21
 
@@ -24,16 +24,15 @@ Swagger (Springdoc OpenAPI)
 Postman (para testes manuais)
 
 ---
+**🧪 Testes da API Swagger UI**
 
-🧪 Testes da API
-Swagger UI
 A documentação interativa da API está disponível em:
 
 📍 http://localhost:8084/swagger-ui.html
 
 ---
 
-⚙️ Funcionalidades
+**⚙️ Funcionalidades**
 Criar tarefa: cadastrar uma nova tarefa com título, descrição e status.
 
 Listar tarefas: retornar todas as tarefas registradas.
@@ -46,7 +45,8 @@ Excluir tarefa: deletar uma tarefa do sistema.
 
 ---
 
-🗄️ Banco de Dados
+**🗄️ Banco de Dados**
+
 O banco de dados utilizado é o PostgreSQL, com mapeamento ORM feito via JPA/Hibernate.
 
 O serviço do banco é executado em container Docker, conforme especificado no arquivo docker-compose.yml.
